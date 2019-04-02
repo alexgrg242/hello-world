@@ -6,3 +6,4 @@ Github Jedi xD
 
 
 #lolo-polo
+#zalupa, a ne git
