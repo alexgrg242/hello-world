@@ -4,5 +4,6 @@ Github Jedi xD
 
 #no pain - no game 
 
-lalala lala lala
-lalala lala lalo
+
+#lolo-polo
+#zalupa, a ne git
